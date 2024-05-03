@@ -8,7 +8,7 @@ https://www.pegelonline.wsv.de/webservices/rest-api/v2/stations.json
 
 and output the result into a CSV file of the following format:
 
-uuid,number,shortname,longname,km,agency,longitude,latitude,watershortname,waterlongname
+uuid;number;shortname;longname;km;agency;longitude;latitude;watershortname;waterlongname
 
 The API documentation can be found here: https://www.pegelonline.wsv.de/webservice/dokuRestapi
 
